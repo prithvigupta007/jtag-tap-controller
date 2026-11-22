@@ -1,0 +1,13 @@
+# QuestaSim / ModelSim generated files
+*.wlf
+*.vcd
+work/
+transcript
+modelsim.ini
+
+# Backup files
+*.bak
+*.v.bak
+
+# Temporary files
+*.tmp
